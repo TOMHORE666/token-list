@@ -78,8 +78,19 @@
         "discord": "https://discord.gg/z3kCpTaKMh",
         "twitter": "https://twitter.com/AngleProtocol",
         "website": "https://www.angle.money"
+      },
+      {
+        "chainId": 101,
+        "address": "Fhv2g3gVBbDemiSos88ZrxGSoRFRA75QnoD6WyWoKcV4",
+        "symbol": "THHOR",
+        "name": "TOMMHORE",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/TOMHORE666/Crypto/main/retrowave.png?token=GHSAT0AAAAAABQLKQTXG47MFW24A5FJ2LD6YOYWMZA",
+        "tags": [
+          "utility-token"
+        ]
       }
-    },
+  
     {
       "chainId": 101,
       "address": "31GpPxe1SW8pn7GXimM73paD8PZyCsmVSGTLkwUAJvZ8",
